@@ -1,12 +1,12 @@
 
 import './App.css'
-import Trail from './components/trail'
+// import Trail from './components/trail'
 
 function App() {
 
   return (
       <div>
-       <Trail />
+      <h1>hello</h1>
       </div>
   )
 }
